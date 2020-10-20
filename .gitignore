@@ -1,1 +1,5 @@
+.gitignore
 .ipynb_checkpoints
+scrap.py
+scrap2.py
+
